@@ -1,17 +1,13 @@
-﻿# ARP Yamato 海雾大和
-- Presented by SEA group
+﻿# ARP Yamato
 
-This is a safe pure-reskin without any model modification.
+Skin modification for tier 10 battleship **Yamato**. 
 
-海雾大和涂装安全版，只有涂色，没有改模
+Presented by SEA group
 
-## Installation 安装
+## Installation
+* **For WGC users**, copy `content`(optional), `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/bin/[largest number]/res_mods/`
+* **For Steam users**, copy `content`(optional), `PnFMods` and `PnFModsLoader.py` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/`
 
-Copy ``content(optional)``, ``PnFMods``, ``PnFModsLoader.py`` into ``/res_mods/a.b.c.d(current version)/``
-
-将``content``、``PnFMods``和``PnFModsLoader.py``复制到``/res_mods/a.b.c.d(当前客户端版本号)/``
-
-## Preview 预览
-
-![ARP_YAMATO_NO_MOD_TEMPLATE](./shot-18.01.22_16.00.58-0442.jpg)
-
+## 使用方法
+* **WG游戏中心用户**请把`content`、`PnFMods`和`PnFModsLoader.py`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/`里面
+* **Steam客户端用户**请把`content`、`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
